@@ -1,0 +1,2 @@
+# GeeksforGeeksL9: Advanced_Vision_AI_Fast-Tracking_Image_Classification_with_Transfer_Learning
+- This reprository containing the Advanced_Vision_AI_Fast-Tracking_Image_Classification_with_Transfer_Learning.ipynb file is the application of transfer learning using popular pre-trained convolutional neural network architectures to address the image classification task on the the application of transfer learning using popular pre-trained convolutional neural network architectures to address the image classification task on the Oxford Flowers 102 dataset.  

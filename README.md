@@ -1,2 +1,2 @@
-# GeeksforGeeksL9: Advanced Vision AI-Fast Tracking Image Classification with Transfer Learning
-- This reprository containing the Advanced_Vision_AI_Fast-Tracking_Image_Classification_with_Transfer_Learning.ipynb file is the application of transfer learning using popular pre-trained convolutional neural network architectures to address the image classification task on the the Oxford Flowers 102 dataset.
+# GeeksforGeeksL16: Intelligent Document Automation Building a Smart OCR Bot 
+- This reprository containing the Intelligent_Document_Automation_Building_a_Smart_OCR_Bot.ipynb file is the Intelligent Document Processing (IDP) the advanced automation technology that transforms the given resume dataset. 
